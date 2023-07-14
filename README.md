@@ -17,7 +17,8 @@
   
   ## Usage
   Inside your prefered code editor, enter (node index.js). You will be prompted a series of questions. Input the answers following the on screen instructions. 
-  ["video link to come later"]
+  [Tutorial](https://youtu.be/5M-ai6QugVQ "Tutorial Video")
+  
   ## License
  This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
   

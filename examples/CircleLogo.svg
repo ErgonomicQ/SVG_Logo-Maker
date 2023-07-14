@@ -1,0 +1,5 @@
+
+  <svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" font-family="Arial">
+    <circle cx="150" cy="100" r="50" fill="Green" />
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="White" font-size="24">SVG</text>
+  </svg>
